@@ -1,0 +1,5 @@
+name: logstash
+version: 0.1.0
+apiVersion: v2
+description: Logstash chart for ADLINK
+type: application
